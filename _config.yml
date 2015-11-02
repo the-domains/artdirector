@@ -1,0 +1,23 @@
+name: artdirector
+favicon: null
+layout_spectrum: 0.805527746444568
+typography_spectrum: 0.31437217630445957
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9551223425660282
+  lightness: 0.340838560834527
+  saturation: 0.4773926588241011
+  rhythmicContrast: 0.15221802331507206
+purpose: []
