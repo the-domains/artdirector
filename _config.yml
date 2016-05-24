@@ -2,6 +2,7 @@ name: artdirector
 favicon: null
 layout_spectrum: 0.805527746444568
 typography_spectrum: 0.31437217630445957
+title: Advertising Feed
 cta:
   domain: null
   bucket: null
