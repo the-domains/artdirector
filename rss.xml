@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cool Hunting]]></title>
+        <description><![CDATA[Cool Hunting]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 24 May 2016 19:03:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Surreal Artworks for Jain Album Cover]]></title>
+            <description><![CDATA[<article><h1>Surreal Artworks for Jain Album Cover</h1><p>Le studio parisien Paul&Martin ont imaginé différentes story visuelles pour l'album Makeba, de la chanteuse Jain (représentée par Sony Music). Des photographies surréalistes et colorées, dans un style qui oscille entre divinités hindous et minimalisme coloré, le tout dans des tons jaunes et bleus roi.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7db0638f656f8ec6007a42f8c863174a474414a.png"></article>]]></description>
+            <link>http://www.fubiz.net/2016/05/01/surreal-artworks-for-jain-album-cover/</link>
+            <guid isPermaLink="false">4feee47a-ab8e-408f-9f33-71a0dc431925</guid>
+            <pubDate>Tue, 24 May 2016 19:03:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
