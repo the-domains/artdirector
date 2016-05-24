@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Cool Hunting]]></title>
         <description><![CDATA[Cool Hunting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/artdirector/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 19:03:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 19:16:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/artdirector/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Impossible I-1 Analog Instant Camera]]></title>
+            <description><![CDATA[<article><h1>Impossible I-1 Analog Instant Camera</h1><p>Your cart is empty It feels desperately alone Let's shop The I-1 is the first new camera system in over twenty years for the original Polaroid ® photo format. Shop now The I-1 makes real photos, that you can pin to the wall or give to a friend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07906ac12d3694cba2442b7d39487956f9cd53e4.jpg"></article>]]></description>
+            <link>https://us.impossible-project.com/pages/impossible-i-1-analog-instant-camera</link>
+            <guid isPermaLink="false">00a824ae-8ff3-4ee9-bbe5-6bfd538e8b72</guid>
+            <pubDate>Tue, 24 May 2016 19:16:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Surreal Artworks for Jain Album Cover]]></title>
             <description><![CDATA[<article><h1>Surreal Artworks for Jain Album Cover</h1><p>Le studio parisien Paul&Martin ont imaginé différentes story visuelles pour l'album Makeba, de la chanteuse Jain (représentée par Sony Music). Des photographies surréalistes et colorées, dans un style qui oscille entre divinités hindous et minimalisme coloré, le tout dans des tons jaunes et bleus roi.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7db0638f656f8ec6007a42f8c863174a474414a.png"></article>]]></description>
